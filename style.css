@@ -1,0 +1,81 @@
+body
+{
+    color: #ffd633;
+    background-image: url("etoile%20star%20wars.jpeg");
+}
+
+h2
+{
+    font-size: 20px;
+    font-family: fantasy;
+    text-decoration: underline;
+}
+
+P
+{
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: justify
+}
+
+A
+{
+    font-style: italic;
+    color: yellow;
+}
+
+h1
+{
+    text-align: center
+}
+
+
+.f1
+{
+    float: left;
+}
+
+.f2
+{
+    float: left;
+}
+
+.f3
+{
+    float: left;
+}
+
+.fr
+{
+    float: left;
+}
+
+.f4
+{
+    float: left;
+}
+
+.f5
+{
+    float: left;
+}
+
+.f6
+{
+    float: left;
+}
+
+.f7
+{
+    float: left;
+}
+
+.f8
+{
+    float: left;
+}
+
+.fs
+{
+    float: left;
+}
